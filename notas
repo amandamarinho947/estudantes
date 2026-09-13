@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "matricula": "2024001",
+    "notas": [8.5, 7.0, 9.0],
+    "media": 8.17,
+    "status": "Aprovado"
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Costa",
+    "matricula": "2024002",
+    "notas": [5.0, 4.5, 6.0],
+    "media": 5.17,
+    "status": "Reprovado"
+  },
+  {
+    "id": 3,
+    "nome": "Carla Souza",
+    "matricula": "2024003",
+    "notas": [9.0, 9.5, 10.0],
+    "media": 9.5,
+    "status": "Aprovado"
+  },
+  {
+    "id": 4,
+    "nome": "Diego Oliveira",
+    "matricula": "2024004",
+    "notas": [6.0, 5.5, 5.0],
+    "media": 5.5,
+    "status": "Reprovado"
+  },
+  {
+    "id": 5,
+    "nome": "Elena Lima",
+    "matricula": "2024005",
+    "notas": [7.0, 7.5, 8.0],
+    "media": 7.5,
+    "status": "Aprovado"
+  }
+]
